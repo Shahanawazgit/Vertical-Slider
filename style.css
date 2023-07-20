@@ -46,19 +46,20 @@ body {
 }
 
 .slide1 {
-  background: #ff0000;
+  background: linear-gradient(0deg, #09121f, #fef5ee);
 }
 
 .slide2 {
-  background: #4c00ff;
+  background: linear-gradient(-45deg, #f3f3f5, #5da4f0);
+  color: #0872c6 !important;
 }
 
 .slide3 {
-  background: #af6e04;
+  background: #31463d;
 }
 
 .slide4 {
-  background: #31463d;
+  background: #af6e04;
 }
 
 /* ------------- Right Slide Section ------------ */
@@ -80,17 +81,19 @@ body {
 }
 
 .bg1 {
-  background: url(Images/Bridge.jpg);
+  background: url(Images/Ferrari.jpg);
 }
 
 .bg2 {
-  background: url(Images/Ferrari.jpg);
+  background: url(Images/Bridge.jpg);
 }
+
 .bg3 {
-  background: url(Images/Giraffe.jpg);
+  background: url(Images/Mountain.jpg);
 }
+
 .bg4 {
-  background: url(Images/Rose.jpg);
+  background: url(Images/Watterfall.jpg);
 }
 
 /* ------------- Buttons Styling ------------ */
